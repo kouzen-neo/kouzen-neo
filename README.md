@@ -160,5 +160,5 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 <br />
 
 <p align="center">
-  <sub>Dibuat dengan ❤️ untuk UMKM & Komunitas Developer Indonesia</sub>
+  <sub>Membangun perangkat lunak dengan fokus pada kecepatan, kegunaan, dan kesederhanaan ✨</sub>
 </p>
