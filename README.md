@@ -70,71 +70,56 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan antara kecepatan pengembangan dan performa aplikasi:
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Backend & Database</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
-      <br />
-      <img src="https://img.shields.io/badge/ElysiaJS-%23000000.svg?style=flat-square&logoColor=white" alt="ElysiaJS" />
-      <br />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <br />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <br />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <br />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-      <br />
-      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <br />
-      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
-    <td valign="top" width="33%">
-      <strong>Frontend & Mobile</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-      <br />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <br />
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-      <br />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-      <br />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <br />
-      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-      <br />
-      <img src="https://img.shields.io/badge/Ant_Design-%230170FE?style=flat-square&logo=ant-design&logoColor=white" alt="Ant Design" />
-      <br />
-      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-    </td>
-    <td valign="top" width="33%">
-      <strong>DevOps & Tools</strong>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <br />
-      <img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-      <br />
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <br />
-      <img src="https://img.shields.io/badge/pnpm-%23E11E26.svg?style=flat-square&logo=pnpm&logoColor=white" alt="PNPM" />
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><strong>💻 Backend & Database</strong></summary>
+<br />
+
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>🎨 Frontend & Mobile</strong></summary>
+<br />
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>⚙️ DevOps & Tools</strong></summary>
+<br />
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-E11E26?style=for-the-badge&logo=pnpm&logoColor=white)
+
+</details>
 
 ---
 
 ### 📐 Filosofi Pengembangan
 
-```
-✦ Mobile-First   — Setiap antarmuka dirancang agar nyaman digunakan dengan satu tangan.
-✦ Zero-Config    — Proses memulai proyek harus instan: clone ➔ install ➔ run.
-✦ Pragmatis      — Menggunakan SQLite/Dexie jika database relasional lokal sudah cukup.
-✦ Single-Port    — Mengemas backend & frontend ke dalam satu container mandiri.
-✦ Secure-Default — Keamanan (Sanctum, rate-limiting, JWT) dikonfigurasi sejak hari pertama.
-```
+- 📱 **Mobile-First Approach** — Setiap antarmuka dirancang agar nyaman digunakan dengan satu tangan.
+- ⚡ **Zero-Config Setup** — Proses memulai proyek harus instan: `clone` ➔ `install` ➔ `run`.
+- 🛠️ **Pragmatic Choices** — Menggunakan SQLite atau Dexie jika database relasional lokal sudah mencukupi.
+- 📦 **Single-Port Container** — Mengemas backend & frontend ke dalam satu container mandiri untuk efisiensi deploy.
+- 🔒 **Secure by Default** — Fitur keamanan utama (Sanctum, rate-limiting, JWT) dikonfigurasi sejak hari pertama.
 
 ---
 
@@ -150,21 +135,30 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 
 ### 🌱 Sedang Dipelajari
 
-- Edge deployment (Cloudflare Workers + D1)
-- Testing dengan Bun test runner
-- WebSocket untuk fitur real-time di POS (notifikasi stok live)
+- 🚀 **Edge Deployments** — Mendalami Cloudflare Workers & database terdistribusi Cloudflare D1.
+- 🧪 **Modern Testing** — Menerapkan pengujian unit & integrasi menggunakan Bun test runner secara penuh.
+- 🔌 **Real-time WebSockets** — Sinkronisasi data stok kasir langsung antar-perangkat pada ekosistem Kouzen POS.
 
 ---
 
 ### 📫 Kontak & Kolaborasi
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/kouzen-neo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:username@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kouzen--neo-181717?style=for-the-badge&logo=github)](https://github.com/kouzen-neo)
-
-*Terbuka untuk kolaborasi, kontribusi proyek open source, atau sekadar diskusi teknis.*
+<p align="center">
+  <em>Terbuka untuk kolaborasi, kontribusi proyek open source, atau sekadar diskusi teknis.</em>
+</p>
 
 <br />
-<sub>Dibuat dengan ❤️ untuk UMKM & Komunitas Developer Indonesia</sub>
 
-</div>
+<p align="center">
+  <sub>Dibuat dengan ❤️ untuk UMKM & Komunitas Developer Indonesia</sub>
+</p>
