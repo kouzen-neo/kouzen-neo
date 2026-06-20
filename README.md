@@ -2,9 +2,13 @@
 
 # Halo, saya Kouzen 👋
 
-**Full-Stack Developer · Membangun tools nyata untuk masalah nyata**
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Membangun+Tools+Nyata+untuk+Masalah+Nyata;Fokus+pada+UX+Mobile-First+%26+Performa" alt="Typing SVG" />
 
-*Fokus pada performa, UX mobile-first, dan kode yang bisa dipelihara*
+<p align="center">
+  <a href="https://github.com/kouzen-neo">
+    <img src="https://img.shields.io/github/followers/kouzen-neo?label=Followers&style=flat-square&color=2563EB&logo=github" alt="Followers" />
+  </a>
+</p>
 
 </div>
 
@@ -12,132 +16,135 @@
 
 ### 🦊 Tentang Saya
 
-Saya developer yang suka membangun aplikasi web dari nol — mulai dari desain database, REST API, sampai antarmuka yang responsif di semua perangkat. Saya percaya software yang baik harus terasa cepat, mudah dipakai, dan tidak butuh manual.
-
-Saat ini aktif mengembangkan **Kouzen POS** — sistem kasir open-source untuk UMKM Indonesia.
+Saya adalah seorang **Full-Stack Developer** yang bersemangat membangun aplikasi dari nol — mulai dari perancangan database yang optimal, REST API yang andal, hingga antarmuka yang modern dan responsif. Pendekatan saya sederhana: *software harus cepat, intuitif, dan langsung dapat digunakan tanpa panduan rumit.*
 
 ---
 
 ### 🚀 Project Unggulan
 
+Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir modern, aplikasi mobile, manajemen invoice, hingga game berbasis web:
+
+<br />
+
+#### 1. 🦊 [Kouzen POS](https://github.com/kouzen-neo/kouzen-pos)
+> **Web-based Point of Sales System**
+>
+> Sistem kasir modern yang dirancang khusus untuk UMKM Indonesia. Menghadirkan performa tinggi dengan arsitektur satu container, zero database configuration, dan startup instan.
+>
+> *   **Tech Stack:** `Bun` · `ElysiaJS` · `SQLite` · `React 19` · `Vite` · `Ant Design 6` · `Docker`
+> *   **Fitur Utama:** Barcode scanner kamera · Loyalty & voucher system · Laporan harian · Multi-shift kasir · Ekspor PDF/Excel · Role-based access
+
+<br />
+
+#### 2. 📱 [Kouzen POS Native](https://github.com/kouzen-neo/kouzen-pos-native)
+> **Mobile Point of Sales Client**
+>
+> Aplikasi mobile (Android & iOS) pendamping ekosistem Kouzen POS. Berfokus pada portabilitas dan kemampuan bekerja secara offline (*offline-first*) dengan database lokal yang sinkron saat terhubung ke internet.
+>
+> *   **Tech Stack:** `React Native` · `Expo` · `Expo SQLite` · `Supabase (Cloud Sync)` · `Tailwind CSS` · `TypeScript`
+> *   **Fitur Utama:** Sinkronisasi cloud real-time · Kitchen Display System (KDS) · Scan barcode cepat · Pencetakan struk via Bluetooth thermal printer · Manajemen shift mobile
+
+<br />
+
+#### 3. 📄 [BillingKu](https://github.com/kouzen-neo/billing-app-m-ui)
+> **Modern Invoice & Client Billing System**
+>
+> Aplikasi Single Page Application (SPA) premium untuk pembuatan dan pengelolaan tagihan/invoice klien secara profesional.
+>
+> *   **Tech Stack:** `Laravel 11` · `React 18` · `Material UI 5` · `Sanctum (Secure Auth)` · `SQLite` · `Recharts`
+> *   **Fitur Utama:** Grafik analisis pendapatan & transaksi · Multi-Identity (kelola profil pribadi & bisnis secara terpisah) · Ekspor invoice ke PDF/Excel · Mode gelap dinamis yang presisten
+
+<br />
+
+#### 4. ⚔️ [Dungeon Battler](https://github.com/kouzen-neo/dungeon-battler)
+> **Web RPG Turn-Based Game**
+>
+> Game pertarungan RPG turn-based interaktif yang berjalan di browser, dikembangkan dengan arsitektur monorepo yang bersih dan berkinerja tinggi.
+>
+> *   **Tech Stack:** `Next.js` · `React` · `Tailwind CSS` · `Dexie.js (IndexedDB)` · `Zustand` · `Howler.js`
+> *   **Fitur Utama:** Kampanye berbasis lantai (10+ floors & boss fight) · Sistem pertarungan taktis (kelemahan elemen & stats) · Fitur gacha rekrutmen karakter · Efek suara & musik latar adaptif · Autosave data lokal
+
+---
+
+### 🛠️ Tech Stack & Ekosistem
+
+Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan antara kecepatan pengembangan dan performa aplikasi:
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**🦊 [Kouzen POS](https://github.com/kouzen-neo/kouzen-pos)**
-
-Sistem kasir modern untuk UMKM Indonesia. Dibangun dengan stack: Bun runtime + ElysiaJS di backend, React 19 + Ant Design 6 di frontend — dikemas dalam satu container Docker, satu port, zero konfigurasi database server.
-
-**Fitur:** Barcode scanner via kamera · Loyalty points · Voucher · Multi-shift · Export Excel/PDF · Dark mode · Bilingual ID/EN · Role-based access
-
-```
-Bun · ElysiaJS · SQLite · React 19
-Vite 8 · Ant Design 6 · Docker
-```
-
-</td>
-<td width="50%" valign="top">
-
-**📱 [Kouzen POS Native](https://github.com/kouzen-neo/kouzen-pos-native)**
-
-Aplikasi mobile (Android & iOS) pendamping ekosistem Kouzen POS. Berfungsi penuh secara offline dengan local database SQLite, serta melakukan sinkronisasi cloud real-time saat terhubung ke internet.
-
-**Fitur:** Offline-first dengan Expo SQLite · Sinkronisasi cloud via Supabase · Barcode scanner kamera · Kitchen Display System (KDS) · Cetak struk printer Bluetooth · Manajemen shift & laporan
-
-```
-React Native · Expo · Expo SQLite
-Supabase · Tailwind CSS · TypeScript
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📄 [BillingKu](https://github.com/kouzen-neo/billing-app-m-ui)**
-
-Sistem manajemen tagihan (invoicing) modern untuk bisnis dan profesional independen. Berbentuk Single Page Application (SPA) yang interaktif dengan desain UI premium berbasis Material Design.
-
-**Fitur:** Pembuatan invoice dinamis · Grafik analitik pendapatan (Recharts) · Multi-Identity (kelola data pribadi/perusahaan) · Export engine PDF/Excel · Mode gelap otomatis · Autentikasi aman Laravel Sanctum
-
-```
-Laravel 11 · React 18 · Material UI 5
-Sanctum · SQLite · Recharts
-```
-
-</td>
-<td width="50%" valign="top">
-
-**⚔️ [Dungeon Battler](https://github.com/kouzen-neo/dungeon-battler)**
-
-Game RPG/Battler berbasis web dengan sistem pertarungan turn-based dan visual interaktif. Dikembangkan menggunakan arsitektur monorepo yang bersih dengan optimalisasi state lokal.
-
-**Fitur:** Floor-based campaign (stage level) · Turn-based combat & sistem elemen · Gacha rekrutmen karakter · Efek suara & musik via Howler · Database lokal terintegrasi Dexie (IndexedDB) · State management Zustand
-
-```
-Next.js · React · Tailwind CSS
-Dexie JS · Zustand · Howler.js
-```
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Backend & Database</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+      <br />
+      <img src="https://img.shields.io/badge/ElysiaJS-%23000000.svg?style=flat-square&logoColor=white" alt="ElysiaJS" />
+      <br />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <br />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <br />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <br />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      <br />
+      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <br />
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Frontend & Mobile</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+      <br />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <br />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+      <br />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <br />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <br />
+      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+      <br />
+      <img src="https://img.shields.io/badge/Ant_Design-%230170FE?style=flat-square&logo=ant-design&logoColor=white" alt="Ant Design" />
+      <br />
+      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>DevOps & Tools</strong>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <br />
+      <img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+      <br />
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <br />
+      <img src="https://img.shields.io/badge/pnpm-%23E11E26.svg?style=flat-square&logo=pnpm&logoColor=white" alt="PNPM" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Backend & Runtime**
-
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=white)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-%23000000.svg?style=flat-square&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat-square&logo=railway&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📐 Cara Saya Membangun Software
+### 📐 Filosofi Pengembangan
 
 ```
-✦ Mobile-first  — setiap UI harus nyaman dipakai dengan ibu jari
-✦ Zero-config   — setup harus semudah: clone → bun install → bun run dev
-✦ Pragmatis     — SQLite lebih baik dari PostgreSQL jika kebutuhan tidak memerlukannya
-✦ Satu container — frontend + backend + database dalam satu Docker image
-✦ Security dulu — JWT, bcrypt, rate limiting, CSP header sejak hari pertama
+✦ Mobile-First   — Setiap antarmuka dirancang agar nyaman digunakan dengan satu tangan.
+✦ Zero-Config    — Proses memulai proyek harus instan: clone ➔ install ➔ run.
+✦ Pragmatis      — Menggunakan SQLite/Dexie jika database relasional lokal sudah cukup.
+✦ Single-Port    — Mengemas backend & frontend ke dalam satu container mandiri.
+✦ Secure-Default — Keamanan (Sanctum, rate-limiting, JWT) dikonfigurasi sejak hari pertama.
 ```
 
 ---
 
-### 📊 Statistik
+### 📊 Statistik Aktivitas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kouzen-neo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzen-neo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+</p>
 
 ---
 
@@ -149,18 +156,15 @@ Dexie JS · Zustand · Howler.js
 
 ---
 
-### 📫 Kontak
+### 📫 Kontak & Kolaborasi
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kouzen--neo-181717?style=for-the-badge&logo=github)](https://github.com/kouzen-neo)
 
-*Terbuka untuk kolaborasi, kontribusi, atau sekadar diskusi teknis.*
+*Terbuka untuk kolaborasi, kontribusi proyek open source, atau sekadar diskusi teknis.*
 
-</div>
+<br />
+<sub>Dibuat dengan ❤️ untuk UMKM & Komunitas Developer Indonesia</sub>
 
----
-
-<div align="center">
-<sub>Dibuat dengan ❤️ untuk UMKM Indonesia</sub>
 </div>
