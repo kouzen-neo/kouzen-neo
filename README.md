@@ -46,7 +46,7 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 <br />
 
-#### 3. 📄 [BillingKu](https://github.com/kouzen-neo/billing-app-m-ui)
+#### 3. 📄 [BillingKu](https://github.com/kouzen-neo/billing-app-m-ui) — [Live Demo](https://billing-app-m-ui.sylentsys.com/dashboard)
 > **Modern Invoice & Client Billing System**
 >
 > Aplikasi Single Page Application (SPA) premium untuk pembuatan dan pengelolaan tagihan/invoice klien secara profesional.
