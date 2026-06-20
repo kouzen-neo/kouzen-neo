@@ -56,7 +56,7 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 <br />
 
-#### 4. ⚔️ [Dungeon Battler](https://github.com/kouzen-neo/dungeon-battler)
+#### 4. ⚔️ [Dungeon Battler](https://github.com/kouzen-neo/dungeon-battler) — [Live Demo](https://dungeon-battler.sylentsys.com/)
 > **Web RPG Turn-Based Game**
 >
 > Game pertarungan RPG turn-based interaktif yang berjalan di browser, dikembangkan dengan arsitektur monorepo yang bersih dan berkinerja tinggi.
