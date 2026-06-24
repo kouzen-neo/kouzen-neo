@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, saya Kouzen 👋
+# Halo, saya Kouzen
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Membangun+Tools+Nyata+untuk+Masalah+Nyata;Fokus+pada+UX+Mobile-First+%26+Performa" alt="Typing SVG" />
 
@@ -14,19 +14,19 @@
 
 ---
 
-### 🦊 Tentang Saya
+### Tentang Saya
 
 Saya adalah seorang **Full-Stack Developer** yang bersemangat membangun aplikasi dari nol — mulai dari perancangan database yang optimal, REST API yang andal, hingga antarmuka yang modern dan responsif. Pendekatan saya sederhana: *software harus cepat, intuitif, dan langsung dapat digunakan tanpa panduan rumit.*
 
 ---
 
-### 🚀 Project Unggulan
+### Project Unggulan
 
 Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir modern, aplikasi mobile, manajemen invoice, hingga game berbasis web:
 
 <br />
 
-#### 1. 🦊 [Kouzen POS](https://github.com/kouzen-neo/kouzen-pos)
+#### 1. [Kouzen POS](https://github.com/kouzen-neo/kouzen-pos)
 > **Web-based Point of Sales System**
 >
 > Sistem kasir modern yang dirancang khusus untuk UMKM Indonesia. Menghadirkan performa tinggi dengan arsitektur satu container, zero database configuration, dan startup instan.
@@ -36,7 +36,7 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 <br />
 
-#### 2. 📱 [Kouzen POS Native](https://github.com/kouzen-neo/kouzen-pos-native)
+#### 2. [Kouzen POS Native](https://github.com/kouzen-neo/kouzen-pos-native)
 > **Mobile Point of Sales Client**
 >
 > Aplikasi mobile (Android & iOS) pendamping ekosistem Kouzen POS. Berfokus pada portabilitas dan kemampuan bekerja secara offline (*offline-first*) dengan database lokal yang sinkron saat terhubung ke internet.
@@ -46,7 +46,7 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 <br />
 
-#### 3. 📄 [BillingKu](https://github.com/kouzen-neo/billing-app-m-ui) — [Live Demo](https://billing-app-m-ui.sylentsys.com/dashboard)
+#### 3. [BillingKu](https://github.com/kouzen-neo/billing-app-m-ui) — [Live Demo](https://billing-app-m-ui.sylentsys.com/dashboard)
 > **Modern Invoice & Client Billing System**
 >
 > Aplikasi Single Page Application (SPA) premium untuk pembuatan dan pengelolaan tagihan/invoice klien secara profesional.
@@ -56,7 +56,7 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 <br />
 
-#### 4. ⚔️ [Dungeon Battler](https://github.com/kouzen-neo/dungeon-battler) — [Live Demo](https://dungeon-battler.sylentsys.com/)
+#### 4. [Dungeon Battler](https://github.com/kouzen-neo/dungeon-battler) — [Live Demo](https://dungeon-battler.sylentsys.com/)
 > **Web RPG Turn-Based Game**
 >
 > Game pertarungan RPG turn-based interaktif yang berjalan di browser, dikembangkan dengan arsitektur monorepo yang bersih dan berkinerja tinggi.
@@ -66,7 +66,7 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 <br />
 
-#### 5. 📱 [Kouzen POS Native (SQLite Edition)](https://github.com/kouzen-neo/kouzen-pos-native-sqlite)
+#### 5. [Kouzen POS Native (SQLite Edition)](https://github.com/kouzen-neo/kouzen-pos-native-sqlite)
 > **Offline-First Mobile Point of Sale Client**
 >
 > Versi khusus luring dari mobile-client Kouzen POS. Menghadirkan inisialisasi database lokal otomatis dan tombol chip interaktif login cepat untuk pengujian efisien.
@@ -76,7 +76,7 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 <br />
 
-#### 6. 🃏 [Yu-Gi-Oh! Explorer (Ink & Steel Edition)](https://github.com/fatuhsa/ygo)
+#### 6. [Yu-Gi-Oh! Explorer (Ink & Steel Edition)](https://github.com/fatuhsa/ygo)
 > **High-Contrast Yu-Gi-Oh! Card Explorer & Registry**
 >
 > Database dan explorer kartu Yu-Gi-Oh! minimalis offline-first, dilengkapi kalkulasi parallax 3D, Web Audio API, booster gacha pack, dan deck builder kompatibel.
@@ -86,12 +86,12 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 ---
 
-### 🛠️ Tech Stack & Ekosistem
+### Tech Stack & Ekosistem
 
 Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan antara kecepatan pengembangan dan performa aplikasi:
 
 <details open>
-<summary><strong>💻 Backend & Database</strong></summary>
+<summary><strong>Backend & Database</strong></summary>
 <br />
 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
@@ -108,7 +108,7 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 </details>
 
 <details open>
-<summary><strong>🎨 Frontend & Mobile</strong></summary>
+<summary><strong>Frontend & Mobile</strong></summary>
 <br />
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -123,7 +123,7 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 </details>
 
 <details open>
-<summary><strong>⚙️ DevOps & Tools</strong></summary>
+<summary><strong>DevOps & Tools</strong></summary>
 <br />
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -135,17 +135,17 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 
 ---
 
-### 📐 Filosofi Pengembangan
+### Filosofi Pengembangan
 
-- 📱 **Mobile-First Approach** — Setiap antarmuka dirancang agar nyaman digunakan dengan satu tangan.
-- ⚡ **Zero-Config Setup** — Proses memulai proyek harus instan: `clone` ➔ `install` ➔ `run`.
-- 🛠️ **Pragmatic Choices** — Menggunakan SQLite atau Dexie jika database relasional lokal sudah mencukupi.
-- 📦 **Single-Port Container** — Mengemas backend & frontend ke dalam satu container mandiri untuk efisiensi deploy.
-- 🔒 **Secure by Default** — Fitur keamanan utama (Sanctum, rate-limiting, JWT) dikonfigurasi sejak hari pertama.
+- **Mobile-First Approach** — Setiap antarmuka dirancang agar nyaman digunakan dengan satu tangan.
+- **Zero-Config Setup** — Proses memulai proyek harus instan: `clone` ➔ `install` ➔ `run`.
+- **Pragmatic Choices** — Menggunakan SQLite atau Dexie jika database relasional lokal sudah mencukupi.
+- **Single-Port Container** — Mengemas backend & frontend ke dalam satu container mandiri untuk efisiensi deploy.
+- **Secure by Default** — Fitur keamanan utama (Sanctum, rate-limiting, JWT) dikonfigurasi sejak hari pertama.
 
 ---
 
-### 📊 Statistik Aktivitas
+### Statistik Aktivitas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
@@ -155,15 +155,15 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 
 ---
 
-### 🌱 Sedang Dipelajari
+### Sedang Dipelajari
 
-- 🚀 **Edge Deployments** — Mendalami Cloudflare Workers & database terdistribusi Cloudflare D1.
-- 🧪 **Modern Testing** — Menerapkan pengujian unit & integrasi menggunakan Bun test runner secara penuh.
-- 🔌 **Real-time WebSockets** — Sinkronisasi data stok kasir langsung antar-perangkat pada ekosistem Kouzen POS.
+- **Edge Deployments** — Mendalami Cloudflare Workers & database terdistribusi Cloudflare D1.
+- **Modern Testing** — Menerapkan pengujian unit & integrasi menggunakan Bun test runner secara penuh.
+- **Real-time WebSockets** — Sinkronisasi data stok kasir langsung antar-perangkat pada ekosistem Kouzen POS.
 
 ---
 
-### 📫 Kontak & Kolaborasi
+### Kontak & Kolaborasi
 
 <p align="center">
   <a href="https://github.com/kouzen-neo">
@@ -182,5 +182,5 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 <br />
 
 <p align="center">
-  <sub>Membangun perangkat lunak dengan fokus pada kecepatan, kegunaan, dan kesederhanaan ✨</sub>
+  <sub>Membangun perangkat lunak dengan fokus pada kecepatan, kegunaan, dan kesederhanaan.</sub>
 </p>
