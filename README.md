@@ -64,6 +64,26 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 > *   **Tech Stack:** `Next.js` · `React` · `Tailwind CSS` · `Dexie.js (IndexedDB)` · `Zustand` · `Howler.js`
 > *   **Fitur Utama:** Kampanye berbasis lantai (10+ floors & boss fight) · Sistem pertarungan taktis (kelemahan elemen & stats) · Fitur gacha rekrutmen karakter · Efek suara & musik latar adaptif · Autosave data lokal
 
+<br />
+
+#### 5. 📱 [Kouzen POS Native (SQLite Edition)](https://github.com/kouzen-neo/kouzen-pos-native-sqlite)
+> **Offline-First Mobile Point of Sale Client**
+>
+> Versi khusus luring dari mobile-client Kouzen POS. Menghadirkan inisialisasi database lokal otomatis dan tombol chip interaktif login cepat untuk pengujian efisien.
+>
+> *   **Tech Stack:** `React Native` · `Expo` · `Expo SQLite` · `Tailwind CSS` · `TypeScript` · `Reanimated`
+> *   **Fitur Utama:** Offline-first dengan basis data SQLite · Inisialisasi basis data otomatis · Pengisian otomatis data akun demo sekali ketuk · Integrasi barcode scanner & printer Bluetooth
+
+<br />
+
+#### 6. 🃏 [Yu-Gi-Oh! Explorer (Ink & Steel Edition)](https://github.com/fatuhsa/ygo)
+> **High-Contrast Yu-Gi-Oh! Card Explorer & Registry**
+>
+> Database dan explorer kartu Yu-Gi-Oh! minimalis offline-first, dilengkapi kalkulasi parallax 3D, Web Audio API, booster gacha pack, dan deck builder kompatibel.
+>
+> *   **Tech Stack:** `React 19` · `MUI v6` · `Express 5.x` · `SQLite (better-sqlite3)` · `TypeScript` · `Web Audio API`
+> *   **Fitur Utama:** 3D Holographic Card Parallax dengan shimmer foil · Ekspor file registry `.ydk` · Quiz deskripsi kartu taktis dengan audio · Visual analitik database responsif via React SVG · Booster Gacha pack dengan efek suara kartu fisik
+
 ---
 
 ### 🛠️ Tech Stack & Ekosistem
@@ -75,7 +95,9 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 <br />
 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
