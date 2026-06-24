@@ -28,7 +28,7 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 
 <br />
 
-#### 1. [Kouzen POS](https://github.com/kouzen-neo/kouzen-pos)
+#### 1. [Kouzen POS](https://github.com/kouzen-neo/kouzen-pos) — [Live Demo](https://kouzen-pos.sylentsys.com/)
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=16&duration=3000&color=10B981&width=400&lines=Web-based+Point+of+Sales+System;SaaS-ready+Multi-Tenant+App" width="400" alt="Kouzen POS Subtitle" />
 </p>
