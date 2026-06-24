@@ -2,7 +2,9 @@
 
 # Halo, saya Kouzen
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Membangun+Tools+Nyata+untuk+Masalah+Nyata;Fokus+pada+UX+Mobile-First+%26+Performa" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Membangun+Tools+Nyata;UX+Mobile-First+%26+Performa" width="450" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/kouzen-neo">
@@ -27,62 +29,74 @@ Berikut adalah beberapa proyek utama yang saya kembangkan, mencakup sistem kasir
 <br />
 
 #### 1. [Kouzen POS](https://github.com/kouzen-neo/kouzen-pos)
-> **Web-based Point of Sales System**
->
-> Sistem kasir modern yang dirancang khusus untuk UMKM Indonesia. Menghadirkan performa tinggi dengan arsitektur satu container, zero database configuration, dan startup instan.
->
-> *   **Tech Stack:** `Bun` · `ElysiaJS` · `SQLite` · `React 19` · `Vite` · `Ant Design 6` · `Docker`
-> *   **Fitur Utama:** Barcode scanner kamera · Loyalty & voucher system · Laporan harian · Multi-shift kasir · Ekspor PDF/Excel · Role-based access
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=16&duration=3000&color=10B981&width=400&lines=Web-based+Point+of+Sales+System;SaaS-ready+Multi-Tenant+App" width="400" alt="Kouzen POS Subtitle" />
+</p>
+
+Sistem kasir modern yang dirancang khusus untuk UMKM Indonesia. Menghadirkan performa tinggi dengan arsitektur satu container, zero database configuration, dan startup instan.
+
+*   **Tech Stack:** `Bun` · `ElysiaJS` · `SQLite` · `React 19` · `Vite` · `Ant Design 6` · `Docker`
+*   **Fitur Utama:** Barcode scanner kamera · Loyalty & voucher system · Laporan harian · Multi-shift kasir · Ekspor PDF/Excel · Role-based access
 
 <br />
 
 #### 2. [Kouzen POS Native](https://github.com/kouzen-neo/kouzen-pos-native)
-> **Mobile Point of Sales Client**
->
-> Aplikasi mobile (Android & iOS) pendamping ekosistem Kouzen POS. Berfokus pada portabilitas dan kemampuan bekerja secara offline (*offline-first*) dengan database lokal yang sinkron saat terhubung ke internet.
->
-> *   **Tech Stack:** `React Native` · `Expo` · `Expo SQLite` · `Supabase (Cloud Sync)` · `Tailwind CSS` · `TypeScript`
-> *   **Fitur Utama:** Sinkronisasi cloud real-time · Kitchen Display System (KDS) · Scan barcode cepat · Pencetakan struk via Bluetooth thermal printer · Manajemen shift mobile
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=16&duration=3000&color=3B82F6&width=400&lines=Mobile+Point+of+Sales+Client;Offline-First+with+Cloud+Sync" width="400" alt="Kouzen POS Native Subtitle" />
+</p>
+
+Aplikasi mobile (Android & iOS) pendamping ekosistem Kouzen POS. Berfokus pada portabilitas dan kemampuan bekerja secara offline (*offline-first*) dengan database lokal yang sinkron saat terhubung ke internet.
+
+*   **Tech Stack:** `React Native` · `Expo` · `Expo SQLite` · `Supabase (Cloud Sync)` · `Tailwind CSS` · `TypeScript`
+*   **Fitur Utama:** Sinkronisasi cloud real-time · Kitchen Display System (KDS) · Scan barcode cepat · Pencetakan struk via Bluetooth thermal printer · Manajemen shift mobile
 
 <br />
 
 #### 3. [BillingKu](https://github.com/kouzen-neo/billing-app-m-ui) — [Live Demo](https://billing-app-m-ui.sylentsys.com/dashboard)
-> **Modern Invoice & Client Billing System**
->
-> Aplikasi Single Page Application (SPA) premium untuk pembuatan dan pengelolaan tagihan/invoice klien secara profesional.
->
-> *   **Tech Stack:** `Laravel 11` · `React 18` · `Material UI 5` · `Sanctum (Secure Auth)` · `SQLite` · `Recharts`
-> *   **Fitur Utama:** Grafik analisis pendapatan & transaksi · Multi-Identity (kelola profil pribadi & bisnis secara terpisah) · Ekspor invoice ke PDF/Excel · Mode gelap dinamis yang presisten
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=16&duration=3000&color=2563EB&width=400&lines=Modern+Invoice+System;Material-UI+SPA+Dashboard" width="400" alt="BillingKu Subtitle" />
+</p>
+
+Aplikasi Single Page Application (SPA) premium untuk pembuatan dan pengelolaan tagihan/invoice klien secara profesional.
+
+*   **Tech Stack:** `Laravel 11` · `React 18` · `Material UI 5` · `Sanctum (Secure Auth)` · `SQLite` · `Recharts`
+*   **Fitur Utama:** Grafik analisis pendapatan & transaksi · Multi-Identity (kelola profil pribadi & bisnis secara terpisah) · Ekspor invoice ke PDF/Excel · Mode gelap dinamis yang presisten
 
 <br />
 
 #### 4. [Dungeon Battler](https://github.com/kouzen-neo/dungeon-battler) — [Live Demo](https://dungeon-battler.sylentsys.com/)
-> **Web RPG Turn-Based Game**
->
-> Game pertarungan RPG turn-based interaktif yang berjalan di browser, dikembangkan dengan arsitektur monorepo yang bersih dan berkinerja tinggi.
->
-> *   **Tech Stack:** `Next.js` · `React` · `Tailwind CSS` · `Dexie.js (IndexedDB)` · `Zustand` · `Howler.js`
-> *   **Fitur Utama:** Kampanye berbasis lantai (10+ floors & boss fight) · Sistem pertarungan taktis (kelemahan elemen & stats) · Fitur gacha rekrutmen karakter · Efek suara & musik latar adaptif · Autosave data lokal
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=16&duration=3000&color=EF4444&width=400&lines=Web+RPG+Turn-Based+Game;Next.js+Monorepo+Architecture" width="400" alt="Dungeon Battler Subtitle" />
+</p>
+
+Game pertarungan RPG turn-based interaktif yang berjalan di browser, dikembangkan dengan arsitektur monorepo yang bersih dan berkinerja tinggi.
+
+*   **Tech Stack:** `Next.js` · `React` · `Tailwind CSS` · `Dexie.js (IndexedDB)` · `Zustand` · `Howler.js`
+*   **Fitur Utama:** Kampanye berbasis lantai (10+ floors & boss fight) · Sistem pertarungan taktis (kelemahan elemen & stats) · Fitur gacha rekrutmen karakter · Efek suara & musik latar adaptif · Autosave data lokal
 
 <br />
 
 #### 5. [Kouzen POS Native (SQLite Edition)](https://github.com/kouzen-neo/kouzen-pos-native-sqlite)
-> **Offline-First Mobile Point of Sale Client**
->
-> Versi khusus luring dari mobile-client Kouzen POS. Menghadirkan inisialisasi database lokal otomatis dan tombol chip interaktif login cepat untuk pengujian efisien.
->
-> *   **Tech Stack:** `React Native` · `Expo` · `Expo SQLite` · `Tailwind CSS` · `TypeScript` · `Reanimated`
-> *   **Fitur Utama:** Offline-first dengan basis data SQLite · Inisialisasi basis data otomatis · Pengisian otomatis data akun demo sekali ketuk · Integrasi barcode scanner & printer Bluetooth
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=16&duration=3000&color=10B981&width=400&lines=Offline-First+Mobile+Client;Local+SQLite+Autosave" width="400" alt="Kouzen POS Native SQLite Subtitle" />
+</p>
+
+Versi khusus luring dari mobile-client Kouzen POS. Menghadirkan inisialisasi database lokal otomatis dan tombol chip interaktif login cepat untuk pengujian efisien.
+
+*   **Tech Stack:** `React Native` · `Expo` · `Expo SQLite` · `Tailwind CSS` · `TypeScript` · `Reanimated`
+*   **Fitur Utama:** Offline-first dengan basis data SQLite · Inisialisasi basis data otomatis · Pengisian otomatis data akun demo sekali ketuk · Integrasi barcode scanner & printer Bluetooth
 
 <br />
 
 #### 6. [Yu-Gi-Oh! Explorer (Ink & Steel Edition)](https://github.com/fatuhsa/ygo)
-> **High-Contrast Yu-Gi-Oh! Card Explorer & Registry**
->
-> Database dan explorer kartu Yu-Gi-Oh! minimalis offline-first, dilengkapi kalkulasi parallax 3D, Web Audio API, booster gacha pack, dan deck builder kompatibel.
->
-> *   **Tech Stack:** `React 19` · `MUI v6` · `Express 5.x` · `SQLite (better-sqlite3)` · `TypeScript` · `Web Audio API`
-> *   **Fitur Utama:** 3D Holographic Card Parallax dengan shimmer foil · Ekspor file registry `.ydk` · Quiz deskripsi kartu taktis dengan audio · Visual analitik database responsif via React SVG · Booster Gacha pack dengan efek suara kartu fisik
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=16&duration=3000&color=F59E0B&width=400&lines=Yu-Gi-Oh!+Card+Explorer+and+Registry;Holographic+3D+Parallax+Foil" width="400" alt="YGO Explorer Subtitle" />
+</p>
+
+Database dan explorer kartu Yu-Gi-Oh! minimalis offline-first, dilengkapi kalkulasi parallax 3D, Web Audio API, booster gacha pack, dan deck builder kompatibel.
+
+*   **Tech Stack:** `React 19` · `MUI v6` · `Express 5.x` · `SQLite (better-sqlite3)` · `TypeScript` · `Web Audio API`
+*   **Fitur Utama:** 3D Holographic Card Parallax dengan shimmer foil · Ekspor file registry `.ydk` · Quiz deskripsi kartu taktis dengan audio · Visual analitik database responsif via React SVG · Booster Gacha pack dengan efek suara kartu fisik
 
 ---
 
@@ -182,5 +196,5 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 <br />
 
 <p align="center">
-  <sub>Membangun perangkat lunak dengan fokus pada kecepatan, kegunaan, dan kesederhanaan.</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=14&duration=3000&pause=1000&color=4B5563&center=true&vCenter=true&width=450&lines=Membangun+perangkat+lunak+dengan+kecepatan;Mengutamakan+kegunaan+dan+kesederhanaan" width="450" alt="Footer Tagline" />
 </p>
