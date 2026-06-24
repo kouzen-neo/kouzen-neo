@@ -168,6 +168,16 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
     </td>
     <td width="15"></td>
     <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kouzen-neo&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="419" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzen-neo&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" width="300" />
     </td>
   </tr>
