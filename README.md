@@ -161,11 +161,17 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 
 ### Statistik Aktivitas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzen-neo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195" />
+    </td>
+    <td width="15"></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzen-neo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="195" />
+    </td>
+  </tr>
+</table>
 
 ---
 
