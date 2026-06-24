@@ -164,11 +164,11 @@ Saya memilih perkakas terbaik untuk setiap pekerjaan demi mencapai keseimbangan 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr valign="middle">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="419" />
     </td>
     <td width="15"></td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzen-neo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouzen-neo&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" width="300" />
     </td>
   </tr>
 </table>
