@@ -11,21 +11,21 @@
 
 <!-- ─── ABOUT ──────────────────────────────────────── -->
 
-## 👨‍💻 Tentang Saya
+## Tentang Saya
 
 Membangun aplikasi dari nol — dari perancangan database, REST API, hingga antarmuka modern. Spesialisasi di ekosistem **React** (React Native, Next.js, React) dengan arsitektur **offline-first**.
 
 ```text
-📱  Mobile-first, offline-first, zero-config
-⚡  React Native · Expo · Next.js · Bun · SQLite
-🎯  Fokus: POS System, Mobile Commerce, Interactive Web
+Mobile-first, offline-first, zero-config
+React Native · Expo · Next.js · Bun · SQLite
+Fokus: POS System, Mobile Commerce, Interactive Web
 ```
 
 ---
 
 <!-- ─── PROJECTS ────────────────────────────────────── -->
 
-## 🚀 Project Unggulan
+## Project Unggulan
 
 ### 1. [Kouzen POS — Web](https://kouzen-pos.sylentsys.com/)
 
@@ -37,7 +37,7 @@ Fitur  │ Barcode scanner · Loyalty & voucher · Multi-shift kasir
        │ Ekspor PDF/Excel · Role-based access
 ```
 
-🔒 **Proprietary** — [Live Demo →](https://kouzen-pos.sylentsys.com/)
+**Proprietary** — [Live Demo](https://kouzen-pos.sylentsys.com/)
 
 ---
 
@@ -51,7 +51,7 @@ Fitur  │ Offline-first SQLite · Camera barcode scanner
        │ Bluetooth thermal print · KDS panel · Multi-role auth
 ```
 
-📖 **Open Source (MIT)** — [Download APK →](https://github.com/kouzen-neo/kouzen-pos-native-sqlite/releases/tag/alpha-build)
+**Open Source (MIT)** — [Download APK](https://github.com/kouzen-neo/kouzen-pos-native-sqlite/releases/tag/alpha-build)
 
 ---
 
@@ -65,13 +65,13 @@ Fitur  │ 3D Holographic Card Parallax · YDK Deck Builder
        │ Card Comparator · Interactive Quiz · Booster Gacha
 ```
 
-📖 **Open Source** — [Live Demo →](https://ygo-sanx.sylentsys.com/)
+**Open Source** — [Live Demo](https://ygo-sanx.sylentsys.com/)
 
 ---
 
 <!-- ─── SKILLS ──────────────────────────────────────── -->
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -80,19 +80,21 @@ Fitur  │ 3D Holographic Card Parallax · YDK Deck Builder
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 ---
 
 <!-- ─── STATS ───────────────────────────────────────── -->
 
-## 📊 Statistik
+## Statistik
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="400" />
@@ -107,7 +109,7 @@ Fitur  │ 3D Holographic Card Parallax · YDK Deck Builder
 
 <!-- ─── PHILOSOPHY ──────────────────────────────────── -->
 
-## ⚡ Filosofi
+## Filosofi
 
 ```
 Offline-First  →  Aplikasi harus berguna tanpa internet
