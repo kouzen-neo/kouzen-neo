@@ -11,18 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: kouzen-neo
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+            images/github-snake.svg
+            images/github-snake-dark.svg?palette=github-dark
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: peaceiris/actions-gh-pages@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: output
-          user_name: "github-actions[bot]"
-          user_email: "github-actions[bot]@users.noreply.github.com"
-          publish_branch: output
-          keep_files: true
+          commit_message: "chore: update contribution snake"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          file_pattern: "images/github-snake*.svg"
