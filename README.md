@@ -4,4 +4,8 @@
 
 Mobile Dev · Android Dev · Web Dev
 
-<img src="https://skillicons.dev/icons?i=react,kotlin,ts,sqlite,androidstudio,nodejs" />
+**Frameworks & Languages**
+<img src="https://skillicons.dev/icons?i=react,kotlin,ts,androidstudio,nodejs,sqlite" />
+
+**DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=docker,arch,github,linux" />
