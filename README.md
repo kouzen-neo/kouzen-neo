@@ -1,12 +1,19 @@
-# Kouzen Neo
+<img id="banner" src="https://images3.alphacoders.com/136/thumb-1920-1368880.png" height="auto" width="100%"/>
 
-<img src="https://images3.alphacoders.com/136/thumb-1920-1368880.png" width="100%" />
+## 🖋️ About Me
 
+Hi 👋, I'm **Kouzen Neo** — a CLI-based software enthusiast, network technician, and frontend developer from Indonesia.
 
-**Frameworks**
+---
 
-<img src="https://skillicons.dev/icons?i=ts,react,kotlin,nodejs,bun,npm&perline=6" />
+## 👾 Skills
 
-**DevOps**
+[![Languages](https://skillicons.dev/icons?i=ts,react,kotlin,nodejs,bun,npm)](https://skillicons.dev)
 
-<img src="https://skillicons.dev/icons?i=arch,docker,github,debian&perline=4" />
+[![DevOps](https://skillicons.dev/icons?i=arch,docker,github,debian)](https://skillicons.dev)
+
+---
+
+## 📊 Stats
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=kouzen-neo&theme=onestar&no-frame=true&no-bg=true&column=5&row=1)
