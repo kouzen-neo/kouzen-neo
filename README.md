@@ -12,7 +12,7 @@ Hi 👋, I'm **Kouzen Neo** — a tech enthusiast focused on declarative workspa
 
 ## 💻 Workspace
 
-[![Workspace](https://skillicons.dev/icons?i=arch,docker,github,debian,nix,windows)](https://skillicons.dev)
+[![Workspace](https://skillicons.dev/icons?i=arch,debian,nix,windows,docker,github)](https://skillicons.dev)
 
 ---
 
