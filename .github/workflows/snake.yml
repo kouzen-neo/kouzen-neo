@@ -16,7 +16,6 @@ jobs:
         with:
           github_user_name: kouzen-neo
           color_snake: "#0EA5E9"
-          color_snake_dark: "#38BDF8"
           outputs: |
             images/github-snake.svg
             images/github-snake-dark.svg?palette=github-dark
