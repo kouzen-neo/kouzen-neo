@@ -16,6 +16,15 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
 ---
 
+<details>
+  <summary>⚡ Recent Activity</summary>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 <picture>
   <source
     srcset="https://raw.githubusercontent.com/kouzen-neo/kouzen-neo/main/images/github-snake-dark.svg"
@@ -30,12 +39,3 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
     src="https://raw.githubusercontent.com/kouzen-neo/kouzen-neo/main/images/github-snake.svg"
   />
 </picture>
-
-<details>
-  <summary>⚡ Recent Activity</summary>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
