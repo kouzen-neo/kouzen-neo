@@ -6,7 +6,7 @@ Mobile Dev · Android Dev · Web Dev
 
 **Frameworks**
 
-<img src="https://skillicons.dev/icons?i=ts,react,kotlin,nodejs,bun,npm&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,react,kotlin,nodejs,bun,npm,expo&perline=6" />
 
 **DevOps**
 
