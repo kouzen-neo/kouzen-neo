@@ -2,7 +2,7 @@
 
 ## 🖋️ About Me
 
-Hi 👋, I'm **Kouzen Neo** — a tech enthusiast, declarative, and android dev · mobile dev · web dev from Indonesia.
+Hi 👋, I'm **Kouzen Neo** — a tech enthusiast focused on declarative UI, Android, mobile, and web development. Based in Indonesia.
 
 ---
 
