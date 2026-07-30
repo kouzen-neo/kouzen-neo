@@ -10,9 +10,9 @@ Hi 👋, I'm **Kouzen Neo** — a tech enthusiast focused on declarative workspa
 
 [![Languages](https://skillicons.dev/icons?i=ts,react,kotlin,nodejs,bun,npm)](https://skillicons.dev)
 
-## 💻 Declarative Workspace
+## 💻 Workspace
 
-[![Workspace](https://skillicons.dev/icons?i=arch,docker,github,debian)](https://skillicons.dev)
+[![Workspace](https://skillicons.dev/icons?i=arch,docker,github,debian,nix,windows)](https://skillicons.dev)
 
 ---
 
