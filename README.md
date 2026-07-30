@@ -12,6 +12,10 @@ Hi 👋, I'm **Kouzen Neo** — a tech enthusiast focused on declarative UI, And
 
 [![DevOps](https://skillicons.dev/icons?i=arch,docker,github,debian)](https://skillicons.dev)
 
+### 💻 Declarative Workspace
+
+[![Workspace](https://skillicons.dev/icons?i=arch,debian,vscode,neovim,git,bash)](https://skillicons.dev)
+
 ---
 
 ## 📊 Stats
