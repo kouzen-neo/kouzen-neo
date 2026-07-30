@@ -16,6 +16,21 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
 ---
 
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/kouzen-neo/kouzen-neo/output/github-snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/kouzen-neo/kouzen-neo/output/github-snake.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    alt="GitHub Contribution Grid Snake"
+    src="https://raw.githubusercontent.com/kouzen-neo/kouzen-neo/output/github-snake.svg"
+  />
+</picture>
+
 <details>
   <summary>⚡ Recent Activity</summary>
 
