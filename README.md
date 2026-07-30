@@ -2,7 +2,7 @@
 
 ## 🖋️ About Me
 
-Hi 👋, I'm **Kouzen Neo** — a CLI-based software enthusiast, network technician, and frontend developer from Indonesia.
+Hi 👋, I'm **Kouzen Neo** — a tech enthusiast, declarative, and android dev · mobile dev · web dev from Indonesia.
 
 ---
 
