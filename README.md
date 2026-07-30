@@ -16,6 +16,11 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
 ---
 
-## 📊 Stats
+<details>
+  <summary>⚡ Recent Activity</summary>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
