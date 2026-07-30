@@ -18,4 +18,4 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
 ## 📊 Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=kouzen-neo&theme=onestar&no-frame=true&no-bg=true&column=5&row=1)
+![Stats](https://github-readme-stats.vercel.app/api?username=kouzen-neo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
