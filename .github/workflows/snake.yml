@@ -15,10 +15,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: kouzen-neo
-          color_snake: "#0EA5E9"
           outputs: |
-            images/github-snake.svg
-            images/github-snake-dark.svg?palette=github-dark
+            images/github-snake.svg?color_snake=%230EA5E9
+            images/github-snake-dark.svg?palette=github-dark&color_snake=%2338BDF8
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
