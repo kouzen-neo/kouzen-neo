@@ -1,8 +1,6 @@
 # Kouzen Neo
 
-Full-Stack Developer — React, React Native, TypeScript, offline-first architecture.
-
-Tech: React · React Native · Next.js · Expo · TypeScript · Bun · Vite · SQLite · Node.js · Docker
+Mobile Dev · Android Dev · Web Dev
 
 ---
 
