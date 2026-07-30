@@ -4,6 +4,10 @@
 
 Mobile Dev · Android Dev · Web Dev
 
+**Frameworks**
+
 <img src="https://skillicons.dev/icons?i=react,kotlin,ts,nodejs&perline=4" />
-<br>
+
+**DevOps**
+
 <img src="https://skillicons.dev/icons?i=docker,arch,github&perline=4" />
