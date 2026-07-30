@@ -2,7 +2,7 @@
 
 ## 🖋️ About Me
 
-Hi 👋, I'm **Kouzen Neo** — a tech enthusiast focused on declarative workspace, Android, mobile, and web development. Based in Indonesia.
+Hi 👋, my name is **Ardyan** — a tech enthusiast focused on declarative workspace, Android, mobile, and web development. Based in Indonesia.
 
 ---
 
