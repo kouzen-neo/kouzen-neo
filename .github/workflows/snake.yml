@@ -11,14 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: kouzen-neo
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: output
-          destination_dir: output
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
           publish_branch: output
+          keep_files: true
