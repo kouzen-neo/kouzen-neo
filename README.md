@@ -4,11 +4,6 @@
 
 Mobile Dev · Android Dev · Web Dev
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=react,kotlin,ts,androidstudio,nodejs,sqlite" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=docker,arch,github,linux" /></td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,kotlin,ts,androidstudio,nodejs,sqlite&perline=6" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,arch,github,linux&perline=4" />
