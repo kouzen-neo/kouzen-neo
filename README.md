@@ -12,7 +12,7 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
   Workspace
 
-[![Workspace](https://skillicons.dev/icons?i=arch,debian,nix,windows,docker,github)](https://skillicons.dev)
+[![Workspace](https://skillicons.dev/icons?i=arch,nix,debian,windows,github,docker)](https://skillicons.dev)
 
 ---
 
