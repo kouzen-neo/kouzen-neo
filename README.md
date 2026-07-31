@@ -1,23 +1,23 @@
 <img id="banner" src="https://images3.alphacoders.com/136/thumb-1920-1368880.png" height="auto" width="100%"/>
 
-##  About Me
+  About Me
 
 Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, Android, mobile, and web development. Based in Indonesia.
 
 ---
 
-##  Skills
+  Skills
 
 [![Languages](https://skillicons.dev/icons?i=ts,react,kotlin,java,nodejs,bun,npm)](https://skillicons.dev)
 
-##  Workspace
+  Workspace
 
 [![Workspace](https://skillicons.dev/icons?i=arch,debian,nix,windows,docker,github)](https://skillicons.dev)
 
 ---
 
 <details>
-  <summary>⚡ Recent Activity</summary>
+  <summary> Recent Activity</summary>
 
 <!--START_SECTION:activity-->
 
