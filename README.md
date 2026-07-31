@@ -8,7 +8,7 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
   Skills
 
-[![Languages](https://skillicons.dev/icons?i=ts,java,python,nodejs,react,kotlin,bun)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,java,python,nodejs,react,kotlin,vue,tailwind)](https://skillicons.dev)
 
   Workspace
 
