@@ -18,6 +18,11 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
 <details>
   <summary> Recent Activity</summary>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 </details>
 
 ---
