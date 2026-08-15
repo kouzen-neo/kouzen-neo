@@ -14,12 +14,6 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
 [![Workspace](https://skillicons.dev/icons?i=arch,nix,debian,windows,github,docker)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://kz-prto.vercel.app/">
-    <img src="https://img.shields.io/badge/kz--prto.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="kz-prto.vercel.app"/>
-  </a>
-</p>
-
 ---
 
 <details>
