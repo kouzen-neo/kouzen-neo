@@ -8,11 +8,15 @@ Hi 👋, I'm **Ardyan** — a tech enthusiast focused on declarative workspace, 
 
   Skills
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,java,python,react,kotlin,vue,tailwind)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,kotlin,vue,tailwind" height="64" alt="Languages"/>
+</a>
 
   Workspace
 
-[![Workspace](https://skillicons.dev/icons?i=arch,nix,debian,windows,github,docker)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arch,nix,debian,windows,github,docker" height="64" alt="Workspace"/>
+</a>
 
 ---
 
